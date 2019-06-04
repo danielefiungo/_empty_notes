@@ -1,0 +1,6 @@
+_ignore-zone/*
+!_ignore-zone/.gitkeep
+
+
+_dropMe/*
+!_dropMe/.gitkeep
